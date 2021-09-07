@@ -1,0 +1,149 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+main{
+	width: 80%;
+	height: 700px;
+	background-color: #f0521d;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body{
+	background-image: url(../img/fondo.jpg);
+	font-family:'Roboto', sans-serif; 
+	color: white;
+	text-decoration: none;
+}
+
+header{
+	width: 100%;
+	height: 140px;
+	background-color:#eeaeca;
+	padding-left: 1%;
+}
+#logo{
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-top: 8px;
+}
+
+#titulo{
+	float:left;
+	position: relative;
+	top: 20%;
+	left: 12%;
+	font-family: 'Schoolbell', display;
+	font-weight: bold;
+	font-size: 20pt;
+}
+
+#titulobody{
+	padding-top: 2%;
+	padding-left: 5%;
+	font-size: 18pt;
+}
+
+.inicio{
+	text-decoration: none;
+	color: black;
+
+}
+
+article{
+	width: 100%;
+	height: 600px;
+	background-color: #ff85ad;
+}
+section{
+	width: 100%;
+	height: 400px;
+	background-color: #000000;
+}
+
+footer{
+	width: 100%;
+	height: 150px;
+	background-color: #3498db;
+	padding-left: 10px;
+	background-color: #eeaeca;
+	padding-right: 1%;
+	text-decoration: none;
+}
+
+p{ 
+ font-size: 16px;
+}
+
+#minombre{
+	position: relative;
+	padding-top: 63px;
+	left: 160px;
+	float: left;
+	width: 28%;
+	color: black;
+}
+
+
+#imgindex{
+	background-image: url(../img/index.jpg);
+	background-size: cover;
+}
+
+#rol{
+	float: left;
+	position: relative;
+	top: 15%;
+	left: 70%;
+	padding: 21px;
+	width: 250px;
+	background-color: rgba(35, 118, 125, 100);
+	border-radius: 10px;
+	border-color: #3498db;
+	border-width: 5px;
+	box-shadow: -21px -12px 16px rgba(255, 236, 81, 0.3);
+}
+
+
+
+#logo2{
+	float: left;
+    width: 174px;
+    height: 51px;
+    padding-top: -90%;
+    left: 150px;
+
+	
+}
+#redes{
+	float: right;
+}
+
+ #redes li{
+ 	display: inline-block;
+	padding-top: 5%;
+ }
+
+ #redes li a{
+ 	width: 30px;
+ }
+
+ #logocartoon{
+ 	
+	float: right;
+    width: 174px;
+    height: 51px;
+    padding-top: -90%;
+
+ }
+
+
+
+
+
+
+
